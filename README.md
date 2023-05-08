@@ -1,3 +1,5 @@
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # My-Web-Projects:
 
 Flipkart_Website :
@@ -8,3 +10,5 @@ https://paintinghub.prachii234.repl.co/
 
 Instagram_Website :
 http://127.0.0.1:5501/index.html
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
